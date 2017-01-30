@@ -1,5 +1,11 @@
 # Шпаргалка по консольным командам Git
 
+### git-recall
+
+Замена 'git log' - [репозиторий](https://github.com/Fakerr/git-recall/)
+
+-----
+
 ## Основные
 
 ```bash
